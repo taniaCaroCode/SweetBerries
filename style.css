@@ -1,0 +1,17 @@
+:root {
+    --light-gray: #F5F3EF;
+    --gray: #DCDCDC;
+    --dark-gray: #646464;
+    --black: #000;
+    --white: #FFF;
+    --yellow: #FEBD2F;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    background: var(--light-gray);
+}
+
